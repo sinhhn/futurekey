@@ -37,6 +37,12 @@ define('DB_CHARSET', 'utf8mb4');
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', 'utf8mb4_unicode_ci');
 
+
+/*** FTP login settings ***/
+define("FTP_HOST", "18.182.41.37");
+define("FTP_USER", "wordpress");
+define("FTP_PASS", "futurekey");
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
