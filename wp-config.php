@@ -42,6 +42,8 @@ define('DB_COLLATE', 'utf8mb4_unicode_ci');
 define("FTP_HOST", "18.182.41.37");
 define("FTP_USER", "wordpress");
 define("FTP_PASS", "futurekey");
+define('FS_METHOD', 'direct');
+
 
 /**#@+
  * Authentication Unique Keys and Salts.
